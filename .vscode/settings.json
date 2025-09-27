@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\jBCrypt-0.4.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\jcalendar-1.4.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\mysql-connector-j-9.3.0.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\commons-beanutils-1.8.2.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\commons-collections-3.2.1.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\commons-digester-2.1.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\commons-logging-1.1.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\groovy-all-2.0.1.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\iText-2.1.7.js2.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\jasperreports-5.6.0.jar",
+        "c:\\xampp\\htdocs\\SpkFarros\\jar\\JasperReport\\org-jdesktop-layout.jar"
+    ]
+}
